@@ -1,5 +1,32 @@
+  
 body {
-  width: 100%;
+  width: 50%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+}
+header {
+  text-align: center;
+  margin:auto;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+figcaption{
+  font-size: smaller;
+  text-align: center;
+}
+p {
+  max-width: 800px;
+  text-align: center;
+  margin:auto;
+  padding-bottom: 10px;
+}
+div {
+  float:left;
+  text-align:center;
+  width:25%;
+  background-color: red;
 }
